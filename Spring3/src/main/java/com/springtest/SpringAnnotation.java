@@ -12,7 +12,6 @@ public class SpringAnnotation {
         System.out.println("zhuzl edit");
         System.out.println("this is spring test2");
         System.out.println("zzl edit spring test2");
-        System.out.println("this is spring test3");
     }
 
 }
