@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 public class SpringAnnotation {
     public void springmethod(){
         System.out.println("this is spring test");
-        System.out.println("æµ‹è¯•æ˜¯å¦å†²çª");
+        System.out.println("zhuzl edit");
+        System.out.println("²âÊÔÊÇ·ñ³åÍ»");
     }
+
 }
